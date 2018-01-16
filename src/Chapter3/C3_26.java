@@ -3,8 +3,8 @@ package Chapter3;
 import java.util.Scanner;
 
 /**
- * Program to display whether a read in number is divisible by 5 and 6, 5 or 6, or 5
- * or 6 but not both
+ * Program to display whether a read in number is divisible by 5 and 6, 5 or 6,
+ * or 5 or 6 but not both
  *
  * @author Mickey Loveless II
  */
