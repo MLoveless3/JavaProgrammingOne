@@ -3,9 +3,9 @@ package Chapter7;
 import java.util.Scanner;
 
 /**
- * Program to
+ * Program to average an array of entered numbers
  *
- * @author ml0981781
+ * @author Mickey Loveless II
  */
 public class P7 {
 
